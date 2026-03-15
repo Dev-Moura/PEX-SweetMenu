@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.bg-stationery {
+  background-color: #f8fbff;
+  background-image: radial-gradient(#dbeafe 1px, transparent 1px);
+  background-size: 20px 20px;
+}
