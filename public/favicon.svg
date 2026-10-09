@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Long River">
+  <defs>
+    <linearGradient id="bun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff1f4"/>
+      <stop offset="1" stop-color="#fecdd6"/>
+    </linearGradient>
+    <linearGradient id="cup" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f43f5e"/>
+      <stop offset="1" stop-color="#9f1239"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#881337"/>
+  <path d="M20 34h24l-3 16a4 4 0 0 1-4 3H27a4 4 0 0 1-4-3z" fill="url(#cup)"/>
+  <path d="M24 34h16l-1.6 19h-12.8z" fill="#e11d48" opacity=".55"/>
+  <path d="M18 30a14 14 0 0 1 28 0z" fill="url(#bun)"/>
+  <circle cx="32" cy="17" r="4" fill="#f43f5e"/>
+  <circle cx="32" cy="17" r="1.6" fill="#fbbf24"/>
+</svg>
